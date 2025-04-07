@@ -4,7 +4,7 @@ const Activities = () => {
     const educationData = [
         {
             year: "2022.04 - 2023.01",
-            title: "Green Computer Academy",
+            title: "그린컴퓨터아카데미",
             subtitle: "[디지털컨버전스] 뷰(Vue) 활용 프론트엔드",
         },
         {
@@ -65,7 +65,7 @@ const Activities = () => {
 
             <section className="mt-44">
                 <h2 className="text-3xl font-bold mb-2 text-center">C<span className="font-marker">E</span>RT</h2>
-                <h2 className="text-base font-normal text-center mb-12 text-blue-500">클릭 시 해당 수료증을 확인할 수 있습니다</h2>
+                <h2 className="text-base font-normal text-center mb-12 text-blue-500">마우스를 올리면 해당 정보를 확인할 수 있습니다</h2>
 
                 <div className="flex justify-center gap-8">
                     {[

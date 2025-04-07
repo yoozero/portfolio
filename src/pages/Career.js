@@ -13,91 +13,23 @@ const Career = () => {
                     period: "2년",
                     projects: [
                         {
-                            date: "23.05 - 23.07",
-                            name: "오롯 플러스",
-                            link: [
-                                "https://play.google.com/store/apps/details?id=com.gtbio.orot&hl=ko",
-                                "https://apps.apple.com/kr/app/%EC%98%A4%EB%A1%AF%ED%94%8C%EB%9F%AC%EC%8A%A4/id6466571666",
-                                // ""
-                            ],
-                            subtitle: "산모의 루틴 케어 애플리케이션",
-                            tasks: [
-                                "혈당 및 레시피 페이지 참여 작업",
-                                "안드로이드 및 iOS 테스트",
-                            ],
-                            tool: [
-                                "Flutter",
-                                "Flutter Package",
-                                "Firebase",
-                                "Android studio",
-                            ],
-                        },
-                        {
-                            date: "23.07 - 23.12",
-                            name: "바야바즈 (1차 리뉴얼)",
-                            link: [
-                                "https://play.google.com/store/apps/details?id=com.neurocircuit.bayabas.flutter&hl=ko",
-                                "https://apps.apple.com/kr/app/%EB%B0%94%EC%95%BC%EB%B0%94%EC%A6%88-ai%EA%B8%B0%EB%B0%98-%ED%83%88%EB%AA%A8-%EC%8A%B5%EA%B4%80%EA%B4%80%EB%A6%AC-%ED%99%88%EC%BC%80%EC%96%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1631768678",
-                                // ""
-                            ],
-                            subtitle: "탈모 예방 및 습관 개선 어플리케이션",
-                            tasks: [
-                                "탈모 병원 및 관리 센터 지도 참여",
-                                "탈모 커뮤니티 참여",
-                                "프로젝트 전체 작업 및 기획에 참여",
-                            ],
-                            tool: [
-                                "Flutter",
-                                "Flutter Package",
-                                "Firebase",
-                                "Swagger UI",
-                                "Android studio",
-                            ],
-                        },
-                        {
-                            date: "24.02 - 24.07",
-                            name: "앱 (내부 사정으로 공개 X)",
+                            date: "25.01 - 25.03",
+                            name: "앱 (미공개)",
                             link: [],
                             subtitle: "flutter 앱",
-                            tasks: [
-                                "",
-                            ],
+                            tasks: ["일부 파트 기획 참여"],
                             tool: [
                                 "Flutter",
                                 "Flutter Package",
-                                "Swagger UI",
                                 "Android studio",
-                            ],
-                        },
-                        {
-                            date: "24.08 - 24.11",
-                            name: "바야바즈 (2차 리뉴얼)",
-                            link: [
-                                "https://play.google.com/store/apps/details?id=com.neurocircuit.bayabas.flutter&hl=ko",
-                                "https://apps.apple.com/kr/app/%EB%B0%94%EC%95%BC%EB%B0%94%EC%A6%88-ai%EA%B8%B0%EB%B0%98-%ED%83%88%EB%AA%A8-%EC%8A%B5%EA%B4%80%EA%B4%80%EB%A6%AC-%ED%99%88%EC%BC%80%EC%96%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1631768678",
-                                // ""
-                            ],
-                            subtitle: "탈모 예방 및 습관 개선 어플리케이션",
-                            tasks: [
-                                "탈모 병원 및 관리 센터 지도 참여",
-                                "탈모 위키피디아 참여",
-                                "프로젝트 전체 작업 및 기획에 참여",
-                            ],
-                            tool: [
-                                "Flutter",
-                                "Flutter Package",
-                                "Firebase",
-                                "Swagger UI",
-                                "Android studio",
+                                "XD"
                             ],
                         },
                         {
                             date: "24.11 - 24.12",
                             name: "아이D",
                             link: [
-                                // "",
-                                "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4d/id6474520936",
-                                // ""
+                                "https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4d/id6474520936"
                             ],
                             subtitle: "산모들을 위한 산리 관리 어플리케이션",
                             tasks: [
@@ -112,23 +44,89 @@ const Career = () => {
                                 "Firebase",
                                 "Send Bird",
                                 "Android studio",
+                                "XD"
                             ],
                         },
                         {
-                            date: "25.01 - 25.03",
-                            name: "앱 (내부 사정으로 공개 X)",
-                            link: [],
-                            subtitle: "flutter 앱",
+                            date: "24.08 - 24.11",
+                            name: "바야바즈 (2차 리뉴얼)",
+                            link: [
+                                "https://play.google.com/store/apps/details?id=com.neurocircuit.bayabas.flutter&hl=ko",
+                                "https://apps.apple.com/kr/app/%EB%B0%94%EC%95%BC%EB%B0%94%EC%A6%88-ai%EA%B8%B0%EB%B0%98-%ED%83%88%EB%AA%A8-%EC%8A%B5%EA%B4%80%EA%B4%80%EB%A6%AC-%ED%99%88%EC%BC%80%EC%96%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1631768678"
+                            ],
+                            subtitle: "탈모 예방 및 습관 개선 어플리케이션",
                             tasks: [
-                                "",
+                                "탈모 병원 및 관리 센터 지도 참여",
+                                "탈모 위키피디아 참여",
+                                "프로젝트 전체 작업 및 기획에 참여",
                             ],
                             tool: [
                                 "Flutter",
                                 "Flutter Package",
+                                "Firebase",
+                                "Swagger UI",
                                 "Android studio",
+                                "Figma"
+                            ],
+                        },
+                        {
+                            date: "24.02 - 24.07",
+                            name: "앱 (미공개)",
+                            link: [],
+                            subtitle: "flutter 앱",
+                            tasks: ["일부 파트 기획 참여"],
+                            tool: [
+                                "Flutter",
+                                "Flutter Package",
+                                "Swagger UI",
+                                "Android studio",
+                                "Figma"
+                            ],
+                        },
+                        {
+                            date: "23.07 - 23.12",
+                            name: "바야바즈 (1차 리뉴얼)",
+                            link: [
+                                "https://play.google.com/store/apps/details?id=com.neurocircuit.bayabas.flutter&hl=ko",
+                                "https://apps.apple.com/kr/app/%EB%B0%94%EC%95%BC%EB%B0%94%EC%A6%88-ai%EA%B8%B0%EB%98%90-%ED%83%88%EB%AA%A8-%EC%8A%B5%EA%B4%80%EA%B4%80%EB%A6%AC-%ED%99%88%EC%BC%80%EC%96%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1631768678"
+                            ],
+                            subtitle: "탈모 예방 및 습관 개선 어플리케이션",
+                            tasks: [
+                                "탈모 병원 및 관리 센터 지도 참여",
+                                "탈모 커뮤니티 참여",
+                                "프로젝트 전체 작업 및 기획에 참여",
+                            ],
+                            tool: [
+                                "Flutter",
+                                "Flutter Package",
+                                "Firebase",
+                                "Swagger UI",
+                                "Android studio",
+                                "XD"
+                            ],
+                        },
+                        {
+                            date: "23.05 - 23.07",
+                            name: "오롯 플러스",
+                            link: [
+                                "https://play.google.com/store/apps/details?id=com.gtbio.orot&hl=ko",
+                                "https://apps.apple.com/kr/app/%EC%98%A4%EB%A1%AF%ED%94%8C%EB%9F%AC%EC%8A%A4/id6466571666"
+                            ],
+                            subtitle: "산모의 루틴 케어 애플리케이션",
+                            tasks: [
+                                "혈당 및 레시피 페이지 참여 작업",
+                                "안드로이드 및 iOS 테스트",
+                            ],
+                            tool: [
+                                "Flutter",
+                                "Flutter Package",
+                                "Firebase",
+                                "Android studio",
+                                "XD"
                             ],
                         },
                     ],
+
                 },
             ],
         },
@@ -204,7 +202,7 @@ const Career = () => {
         <div className="flex flex-col items-center min-h-screen pt-20">
 
             <h2 className="text-3xl font-bold text-center mb-2">S<span className="font-marker">K</span>ILL</h2>
-            <h2 className="text-base font-normal text-center mb-8 text-blue-500">기술과 스택입니다</h2>
+            <h2 className="text-base font-normal text-center mb-8 text-blue-500">기술 스택입니다</h2>
 
 
             <div className="w-full lg:w-2/5 flex flex-wrap justify-center items-center gap-6">
@@ -306,7 +304,7 @@ const Career = () => {
 
                                                         <div className="ml-2 mt-4">
                                                             {project.tool.map((tool, toolIndex) => {
-                                                                let bgColor = "bg-gray-400"; // 기본값
+                                                                let bgColor = "bg-gray-400";
 
                                                                 switch (tool) {
                                                                     case "Flutter":
@@ -322,7 +320,13 @@ const Career = () => {
                                                                         bgColor = "bg-green-500";
                                                                         break;
                                                                     case "Android studio":
-                                                                        bgColor = "bg-lime-500"; // yellowgreen에 가까운 tailwind 색상
+                                                                        bgColor = "bg-lime-500";
+                                                                        break;
+                                                                    case "Figma":
+                                                                        bgColor = "bg-gray-500";
+                                                                        break;
+                                                                    case "XD":
+                                                                        bgColor = "bg-purple-500";
                                                                         break;
                                                                 }
 
